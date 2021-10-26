@@ -3,8 +3,8 @@
 ## Tasks
 
 1. Clone the repository
-2. Create a new branch called '<name>/first-branch'
-3. Create a file named '<name>.py'
+2. Create a new branch called 'your_name_here/first-branch'
+3. Create a file named 'your_name_here.py'
 4. Write a small python script
   Ex:
   ```

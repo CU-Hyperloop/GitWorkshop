@@ -41,7 +41,7 @@
 ## TIPS FOR USING GIT/GITHUB
   - ALWAYS pull before pushing or making changes
   - make small commits so its easier see whats happening
-  - write descriptive commit messages "rather than its not fucked anymore v7"
+  - write descriptive commit messages rather than "its not screwed up anymore v7"
 
 ## TERM CHEAT SHEET
   - stage :: add a file so that it will be committed

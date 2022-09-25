@@ -10,7 +10,7 @@
   - install it: https://www.gitkraken.com/download
   - resolve any ssh conflicts (just say that git kraken did not make it)
   - signup with github in git kraken
-  - choose use gui mode from the choices offered.
+  - choose the "repo tab" mode from the choices offered.
 
 ## CLONE THE REPO
   - in git kraken select 'clone a repo'

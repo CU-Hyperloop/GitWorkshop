@@ -41,8 +41,9 @@
   - write descriptive commit messages rather than "its not screwed up anymore v7"
 
 ## TERM CHEAT SHEET
+  - clone :: copy the repositories files to your computer
   - stage :: add a file so that it will be committed
-  - commit :: tell git that this file(s) is done for now
+  - commit :: tell git that this file(s) is ready for others to see
   - push :: show other people what you comitted
   - pull :: get changes from other people
   - ferin :: that annoying dude in the front who keeps talking

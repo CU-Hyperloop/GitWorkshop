@@ -15,7 +15,7 @@
 ## CLONE THE REPO
   - in git kraken select 'clone a repo'
   - click on 'github.com' in the left bar
-  - choose where you want to clone too
+  - choose where you want to clone to, any folder on your machine will work great
   - choose 'GitWorkshop' as the repository to clone (it should be in the cu hyperloop org)
   - clone the repo
   - click a random commit, and in the side bar click "view all files"

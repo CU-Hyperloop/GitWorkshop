@@ -47,3 +47,6 @@
   - push :: show other people what you comitted
   - pull :: get changes from other people
   - ferin :: that annoying dude in the front who keeps talking
+
+## AFTER THE WORKSHOP - GETTING THE STUDENT DEV PACK 
+  - follow the instructions at https://education.github.com/pack

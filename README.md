@@ -33,7 +33,7 @@
   - go back to git kraken
   - in the repo view, click on the top block under "graph" (the commit message field should say "//WIP")
   - in the right bar, you will now see your txt file as unstaged
-  - click on "stage all changes" on the right bar
+  - click on "stage file" next to your txt file
   - add a summary and a description in the commit messsage section in the right bar
   - click "push" at the top to send your changes to everyone
   - click "pull" at the top to see what everyone else has done

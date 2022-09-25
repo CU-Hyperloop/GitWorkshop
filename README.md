@@ -6,9 +6,6 @@
   - tell Ferin or Max that you want to be added
   - get added 
     
-## GET THE STUDENT DEVELOPER PACK:
-  - follow the instructions to sign up at: https://education.github.com/pack
-
 ## GIT KRAKEN INSTALL:
   - install it: https://www.gitkraken.com/download
   - resolve any ssh conflicts (just say that git kraken did not make it)
